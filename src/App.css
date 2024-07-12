@@ -1,0 +1,24 @@
+.task{
+  display:flex;
+  flex-direction:row;
+  align-items: center;
+  justify-content: center;
+  gap:20px;
+}
+
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+button{
+  height:5vh;
+}
+
+input{
+  height:3vh;
+}
+
+.form{
+  padding:20px;
+}
