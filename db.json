@@ -1,20 +1,12 @@
 {
   "todo": [
     {
-      "id": "42de",
-      "task": "Will's Party"
+      "id": 1,
+      "task": "Go for a run"
     },
     {
-      "id": "e096",
-      "task": "Justine's Party"
-    },
-    {
-      "id": "3603",
-      "task": "put my tongue in taylor's mouth"
-    },
-    {
-      "id": "e02f",
-      "task": "lift"
+      "id": 2,
+      "task": "shop for groceries"
     }
   ]
 }
