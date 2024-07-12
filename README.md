@@ -1,6 +1,3 @@
-Sure, here's a `README.md` for your Todo List application:
-
-```markdown
 # Todo List Application
 
 This is a simple Todo List application built with React and Vite.
@@ -54,6 +51,8 @@ Make sure you have the following installed on your system:
 
 ### Folder Structure
 
+
+
 ```
 your-repo-name/
 │
@@ -70,7 +69,7 @@ your-repo-name/
 ├── db.json
 ├── package.json
 └── README.md
-```
+
 
 ### Contributing
 
@@ -89,6 +88,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [json-server](https://github.com/typicode/json-server)
-```
+
 
 Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name. This `README.md` file provides clear instructions on how to set up and run the Todo List application.
